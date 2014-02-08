@@ -49,7 +49,7 @@ $( document ).ready(function() {
         }
     }
 
-    renderGeoJson = function(link) {
+    renderTransportationLine = function(link) {
         var url = $(link).attr("href");
         $.getJSON(url, function(data) {
             var feature = data.features[0];
@@ -87,7 +87,7 @@ $( document ).ready(function() {
     var transportationLineLinks = $('link[rel="transportation-line"]');
     for (var i = 0; i < transportationLineLinks.length; i++) {
         var transportationLineLink = transportationLineLinks[i];
-        renderGeoJson(transportationLineLink);
+        renderTransportationLine(transportationLineLink);
     }
 
     var stationLinks = $('link[rel="stations"]');
