@@ -33,6 +33,18 @@ $( document ).ready(function() {
             case 'S-Bahnlinie S8': return "#55B831";
             case 'S-Bahnlinie S85': return "#55B831";
             case 'S-Bahnlinie S9': return "#942440";
+
+            case 'U-Bahnlinie U1': return "#54832F";
+            case 'U-Bahnlinie U2': return "#D71910";
+            case 'U-Bahnlinie U3': return "#2F989A";
+            case 'U-Bahnlinie U4': return "#FFE92A";
+            case 'U-Bahnlinie U5': return "#5B1F10";
+            case 'U-Bahnlinie U55': return "#5B1F10";
+            case 'U-Bahnlinie U6': return "#7F3973";
+            case 'U-Bahnlinie U7': return "#0099CC";
+            case 'U-Bahnlinie U8': return "#181953";
+            case 'U-Bahnlinie U9': return "#FF5A22";
+
             default: throw "Cannot match name '" + name + "' to color."
         }
     }
