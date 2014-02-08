@@ -1,0 +1,5185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Adlershof (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.541077,
+                    52.435356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Ahrensfelde Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.565729,
+                    52.570177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Alt-Reinickendorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.349747,
+                    52.577969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Altglienicke (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.559602,
+                    52.407791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Anhalter Bahnhof (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.382355,
+                    52.504499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Attilastr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.360599,
+                    52.44717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Babelsberg",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.094623,
+                    52.391372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Babelsberg/Lutherplatz",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.089123,
+                    52.389967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Babelsberg/Post",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09064,
+                    52.390699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Babelsberg/Schulstr.",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.090541,
+                    52.39025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Babelsberg/Wattstr.",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.094585,
+                    52.391642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Baumschulenweg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.489505,
+                    52.467581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Bellevue (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34693,
+                    52.519764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Bergfelde",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.321455,
+                    52.669695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Bernau Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.593031,
+                    52.676231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Bernau-Friedenstal",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.564685,
+                    52.669177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Betriebsbahnhof Rummelsburg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497509,
+                    52.493957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Betriebsbahnhof Schneweide (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.524859,
+                    52.446064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Beusselstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.328703,
+                    52.534314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Biesdorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.556794,
+                    52.513233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Birkenstein",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64839,
+                    52.517079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Birkenstein (Ersatzverkehr)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.652073,
+                    52.510018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Birkenwerder Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.288373,
+                    52.687899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Blankenburg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.442972,
+                    52.591069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Blankenfelde (TF) Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.416026,
+                    52.337654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Borgsdorf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.276771,
+                    52.714491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Bornholmer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.397848,
+                    52.555032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Botanischer Garten (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.306041,
+                    52.447552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Buch (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.492097,
+                    52.636178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Buch/Rbellweg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.491881,
+                    52.638077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Buckower Chaussee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.382689,
+                    52.410919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Buckower Chaussee (VTF)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385381,
+                    52.411472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Charlottenburg Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.303477,
+                    52.505152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Eichborndamm (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.315583,
+                    52.577545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Eichwalde",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.614966,
+                    52.372085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Eichwalde/August-Bebel-Allee",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.615544,
+                    52.37303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Erkner Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.752249,
+                    52.428396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Erkner Bhf/ZOB",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.754667,
+                    52.428945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Feuerbachstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.332412,
+                    52.463578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Flughafen Berlin-Schnefeld Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.514318,
+                    52.391735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Flughafen Schnefeld Nord",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.513761,
+                    52.386619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Fredersdorf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.761324,
+                    52.526461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Fredersdorf/Nordseite",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.761324,
+                    52.526461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Friedenau (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.341759,
+                    52.470932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Friedrichsfelde Ost (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.520043,
+                    52.513747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Friedrichshagen (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.625458,
+                    52.457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Frohnau (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.289564,
+                    52.632958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Gehrenseestr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.525653,
+                    52.555736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Greifswalder Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.439246,
+                    52.540426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Griebnitzsee Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.127372,
+                    52.393904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Grnau (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.574274,
+                    52.412881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Grnbergallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.543222,
+                    52.39954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Grunewald (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261944,
+                    52.48868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Hackescher Markt (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.402554,
+                    52.522263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Halensee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.290151,
+                    52.496698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Heerstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.258514,
+                    52.508273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Hegermhle",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86626,
+                    52.549056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Heiligensee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.229062,
+                    52.625027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Hennigsdorf Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.205047,
+                    52.637856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Hermsdorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307859,
+                    52.617892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Hirschgarten (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60148,
+                    52.457903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Hohen Neuendorf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.287224,
+                    52.669434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Hohenschnhausen Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.513698,
+                    52.566549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Hohenzollerndamm (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.300712,
+                    52.488314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Hoppegarten",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.672964,
+                    52.518244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Humboldthain (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378726,
+                    52.544742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Julius-Leber-Brcke (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.360775,
+                    52.486263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Karlshorst Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.525981,
+                    52.481038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Karlshorst Bhf/Wandlitzstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.524914,
+                    52.479568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Karow Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.468946,
+                    52.614502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Kaulsdorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58903,
+                    52.512122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Kllnische Heide (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.467529,
+                    52.469168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Knigs Wusterhausen Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.630935,
+                    52.296934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Knigs Wusterhausen/M.-Gorki-Str.",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.630173,
+                    52.293772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Knigs Wusterhausen/Storkower Str.",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.632586,
+                    52.294413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Knigs Wusterhausen/Wasserturm",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.630574,
+                    52.297101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Kpenick (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.580167,
+                    52.458459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Landsberger Allee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.455944,
+                    52.528772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Lankwitz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34276,
+                    52.439034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Lehnitz",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.264622,
+                    52.73805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Lichtenrade (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.396796,
+                    52.387161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Lichterfelde Ost Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.328723,
+                    52.429019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Lichterfelde Sd (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.309184,
+                    52.410714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Lichterfelde West (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.295848,
+                    52.443539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Mahlow",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.408472,
+                    52.360357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Mahlsdorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.612211,
+                    52.511961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Marienfelde (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.375021,
+                    52.423816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Marzahn (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.541922,
+                    52.542853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Mehrower Allee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.554392,
+                    52.557816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Messe Nord/ICC (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.283043,
+                    52.506454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Messe Sd (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27045,
+                    52.498771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Mexikoplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23206,
+                    52.437166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Mhlenbeck-Mnchmhle",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.387834,
+                    52.653892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Neuenhagen",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69839,
+                    52.520821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Nikolassee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.193618,
+                    52.431638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Nldnerplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.484297,
+                    52.503444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Nldnerplatz/Schlichtallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.485141,
+                    52.502274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Nordbahnhof (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.388123,
+                    52.53187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Nordbahnhof/Gartenstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.387492,
+                    52.53336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Oberspree (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.538461,
+                    52.452269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Olympiastadion (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.241111,
+                    52.511135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Oranienburg Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248432,
+                    52.754362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Oranienburger Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.393068,
+                    52.525161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Osdorfer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.314284,
+                    52.418126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Ostbahnhof (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.435747,
+                    52.510001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Ostbahnhof/Erich-Steinfurth-Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.437045,
+                    52.510507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Ostkreuz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.469093,
+                    52.502851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Pankow-Heinersdorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.429566,
+                    52.5782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Petershagen Nord",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.790627,
+                    52.529185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Pichelsberg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.226748,
+                    52.510557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Plnterwald (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.473988,
+                    52.47883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Poelchaustr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.536008,
+                    52.534751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Potsdam Hauptbahnhof",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.067171,
+                    52.390931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Potsdam Hbf Nord",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.067876,
+                    52.392722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Potsdamer Platz Bhf/Vostr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.376655,
+                    52.510147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Prenzlauer Allee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.427746,
+                    52.544879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Priesterweg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356028,
+                    52.459239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Rahnsdorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.692441,
+                    52.451153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Raoul-Wallenberg-Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.548392,
+                    52.550749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Rathaus Steglitz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322473,
+                    52.455961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Rntgental",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51345,
+                    52.648785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Rummelsburg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.478856,
+                    52.501076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Savignyplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31982,
+                    52.504971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Schichauweg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390245,
+                    52.398383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Schlachtensee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.216113,
+                    52.440117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Schneberg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.352848,
+                    52.479811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Schneweide (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.511341,
+                    52.455045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Schneweide/Sterndamm (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.509993,
+                    52.453921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Schnflie",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.338493,
+                    52.664633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Schnholz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.380344,
+                    52.571855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Schulzendorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.246009,
+                    52.613347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Sonnenallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.455998,
+                    52.473822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Sonnenallee/Saalestr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.454458,
+                    52.472215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Spandau Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.197652,
+                    52.53476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Spindlersfeld (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5627,
+                    52.445938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Springpfuhl (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.536904,
+                    52.525806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Storkower Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.464884,
+                    52.524195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Strausberg Bhf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83381,
+                    52.53246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Strausberg Nord",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.908891,
+                    52.590969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Strausberg Stadt",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.888522,
+                    52.579226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Stresow (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.209675,
+                    52.532481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Sdende (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.354077,
+                    52.448899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Sdkreuz Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36489,
+                    52.476509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Sdkreuz Bhf/Ostseite (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.367182,
+                    52.474505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Sundgauer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.273501,
+                    52.436187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Tegel (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.288328,
+                    52.588881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Teltow Stadt",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.276051,
+                    52.396706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Teltow Stadt/Gonfrevillestr.",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.275275,
+                    52.397334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Tiergarten (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.336469,
+                    52.5144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Treptower Park (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.460249,
+                    52.492868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Waidmannslust (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.320549,
+                    52.606814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wannsee Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.177955,
+                    52.421001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Warschauer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.450992,
+                    52.507748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wartenberg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.504238,
+                    52.573266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wamannsdorf",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.463382,
+                    52.368101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Westend (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.284237,
+                    52.51861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Westkreuz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.283036,
+                    52.501152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wildau",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.634623,
+                    52.319065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wilhelmshagen (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.722402,
+                    52.438587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wilhelmsruh (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.363284,
+                    52.581588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wollankstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39315,
+                    52.564974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wollankstr./Sternstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39154,
+                    52.565352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wuhlheide (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.553527,
+                    52.469058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Yorckstr. S1 (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36785,
+                    52.492239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Yorckstr. S2 S25 (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.372182,
+                    52.492341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Zehlendorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259227,
+                    52.431209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Zepernick",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.533143,
+                    52.659218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Zeuthen",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.627045,
+                    52.349162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Zeuthen/Sparkasse",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.625822,
+                    52.347831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Alexanderplatz Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412832,
+                    52.521152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Alexanderplatz Bhf/Dircksenstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.411233,
+                    52.521827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Alexanderplatz Bhf/Gontardstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.411252,
+                    52.521063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Alexanderplatz Bhf/Grunerstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.414429,
+                    52.520414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Berlin Hauptbahnhof",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.368924,
+                    52.525847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Berlin Hauptbahnhof (tief)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.369386,
+                    52.525042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Brandenburger Tor (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.380935,
+                    52.516514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Brandenburger Tor/Glinkastr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.384094,
+                    52.516702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Bundesplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.329149,
+                    52.477366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Frankfurter Allee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4753,
+                    52.513613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Friedrichstr. Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.388018,
+                    52.520134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Gesundbrunnen Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.388045,
+                    52.549036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Heidelberger Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.311843,
+                    52.479446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Hermannstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.431704,
+                    52.467181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Hermannstr./Silbersteinstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.431959,
+                    52.466432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Innsbrucker Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.342875,
+                    52.4781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Jannowitzbrcke (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.418027,
+                    52.5155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Jungfernheide Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.299064,
+                    52.530275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Karl-Bonhoeffer-Nervenklinik (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.332921,
+                    52.578168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Lichtenberg Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.499059,
+                    52.510528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Lichtenberg Bhf/Gudrunstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.500065,
+                    52.512367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Lichtenberg Bhf/Siegfriedstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49775,
+                    52.512315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Neuklln (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.442368,
+                    52.469298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Pankow (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412279,
+                    52.567281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Potsdamer Platz Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.377685,
+                    52.509164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Rathaus Spandau (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.199766,
+                    52.535539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Rathaus Steglitz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.321756,
+                    52.456598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Rathaus Steglitz/Kreisel (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.320852,
+                    52.455889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Schnhauser Allee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.415138,
+                    52.549336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Tempelhof (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385754,
+                    52.470694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Warschauer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.448721,
+                    52.505889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Wedding (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36606,
+                    52.542732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Westhafen (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.342727,
+                    52.536528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Wittenau (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.334962,
+                    52.59629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Wuhletal (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.575478,
+                    52.512537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Yorckstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.369812,
+                    52.492809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Yorckstr. S1 U7 (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.369317,
+                    52.492985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Yorckstr. S2 S25 U7 (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371176,
+                    52.492631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S+U Zoologischer Garten Bhf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.332927,
+                    52.506882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Adenauerplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307348,
+                    52.500086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Afrikanische Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.333502,
+                    52.560862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Alexanderplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.414661,
+                    52.522128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Alt-Mariendorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.387881,
+                    52.439115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Alt-Tegel (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.283298,
+                    52.589933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Alt-Tegel/Grudorfstr.",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.284691,
+                    52.588615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Alt-Tempelhof (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385796,
+                    52.46593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Altstadt Spandau (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.206763,
+                    52.539161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Amrumer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.349534,
+                    52.542202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Augsburger Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.336771,
+                    52.500557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Bayerischer Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.340237,
+                    52.488654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Berliner Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.331355,
+                    52.487047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Bernauer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.396231,
+                    52.537994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Biesdorf-Sd (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.547326,
+                    52.499517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Birkenstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.341417,
+                    52.532229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Bismarckstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.305286,
+                    52.511513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Blaschkoallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.448976,
+                    52.452743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Blissestr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.321618,
+                    52.486347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Blissestr./Fechnerstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.323384,
+                    52.486328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Boddinstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.425782,
+                    52.479745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Borsigwerke (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.290122,
+                    52.582139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Breitenbachplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.309276,
+                    52.467342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Britz-Sd (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.447668,
+                    52.437076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Blowstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.362452,
+                    52.497657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Bundestag (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.373454,
+                    52.519908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Cottbusser Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.596894,
+                    52.533963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Dahlem-Dorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.290011,
+                    52.457695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Deutsche Oper (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30942,
+                    52.511827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Eberswalder Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41216,
+                    52.541085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Eberswalder Str./Pappelallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.413338,
+                    52.541961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Eisenacher Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.350276,
+                    52.489529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Elsterwerdaer Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.561752,
+                    52.505969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Ernst-Reuter-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322581,
+                    52.511582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Fehrbelliner Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.314519,
+                    52.490201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Frankfurter Tor (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45418,
+                    52.515079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Franz-Neumann-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.364283,
+                    52.563854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Franzsische Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390088,
+                    52.514771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Friedrich-Wilhelm-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.328676,
+                    52.471439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Friedrichsfelde (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.512791,
+                    52.505896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Gleisdreieck (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.374293,
+                    52.499587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Gneisenaustr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.395382,
+                    52.491252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Grlitzer Bahnhof (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.428468,
+                    52.499035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Grenzallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.444828,
+                    52.463516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Grenzallee/Jahnstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.445664,
+                    52.461654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Gntzelstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33121,
+                    52.491992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Halemweg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.286578,
+                    52.536703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hallesches Tor (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39176,
+                    52.497774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hansaplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.342165,
+                    52.518111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Haselhorst (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.231757,
+                    52.539012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hausvogteiplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.395346,
+                    52.513361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Heinrich-Heine-Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.416169,
+                    52.510858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hellersdorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.605794,
+                    52.535946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hermannplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.425123,
+                    52.486673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hermannplatz/Karl-Marx-Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4245,
+                    52.486069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hermannplatz/Sonnenallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.426477,
+                    52.487555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hermannplatz/Urbanstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.424578,
+                    52.488028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hohenzollernplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.324051,
+                    52.493834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Holzhauser Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.295083,
+                    52.576252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Hnow (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.634542,
+                    52.538105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Jakob-Kaiser-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.293661,
+                    52.536985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Johannisthaler Chaussee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.453851,
+                    52.429253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Kaiserdamm (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.281967,
+                    52.509971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Kaiserin-Augusta-Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.384905,
+                    52.460513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Karl-Marx-Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.439805,
+                    52.476429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Kaulsdorf-Nord (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.588763,
+                    52.521436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Kleistpark (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.360917,
+                    52.490845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Klosterstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.411547,
+                    52.517842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Kochstr./Checkpoint Charlie (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390863,
+                    52.506673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Konstanzer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310084,
+                    52.493567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Kottbusser Tor (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.418167,
+                    52.499249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Krumme Lanke (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24036,
+                    52.442615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Kurfrstendamm (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.331419,
+                    52.503763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Kurfrstenstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.362814,
+                    52.49981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Kurt-Schumacher-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.327328,
+                    52.563483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Leinestr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4284,
+                    52.472874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Leopoldplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.359395,
+                    52.546493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Lindauer Allee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.339047,
+                    52.575394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Lipschitzallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.463109,
+                    52.424645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Louis-Lewin-Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.619707,
+                    52.539135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Magdalenenstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.489439,
+                    52.512213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Mrkisches Museum (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.409881,
+                    52.511841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Mrkisches Museum/Inselstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412093,
+                    52.512353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Mehringdamm (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.388153,
+                    52.493575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Mendelssohn-Bartholdy-Park (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.374719,
+                    52.503806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Mierendorffplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.305715,
+                    52.525978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Mckernbrcke (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.383256,
+                    52.498944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Mohrenstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.383798,
+                    52.511519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Mohrenstr./Glinkastr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38661,
+                    52.511936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Moritzplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.410947,
+                    52.503739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Naturkundemuseum (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.382927,
+                    52.530672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Nauener Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.367365,
+                    52.551524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Neu-Westend (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25991,
+                    52.516409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Neue Grottkauer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.590777,
+                    52.52824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Nollendorfplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.353825,
+                    52.499644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Olympia-Stadion (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2505,
+                    52.517048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Onkel Toms Htte (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.254016,
+                    52.450146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Oranienburger Tor (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.387927,
+                    52.525671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Oskar-Helene-Heim (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.269948,
+                    52.450695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Osloer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.373284,
+                    52.556938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Otisstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.303074,
+                    52.571122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Pankstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.381837,
+                    52.552255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Paracelsus-Bad (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.347532,
+                    52.574534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Paracelsus-Bad/Aroser Allee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.350806,
+                    52.574002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Paradestr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.386725,
+                    52.478142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Parchimer Allee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.449925,
+                    52.445344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Paulsternstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248593,
+                    52.538098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Platz der Luftbrcke (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.386351,
+                    52.484977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Podbielskiallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.295203,
+                    52.464172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Prinzenstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.406531,
+                    52.498274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Rathaus Neuklln (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.435246,
+                    52.481068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Rathaus Reinickendorf (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.325568,
+                    52.588218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Rathaus Schneberg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.341989,
+                    52.483332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Rehberge (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.341013,
+                    52.55667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Reinickendorfer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.370393,
+                    52.539895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Reinickendorfer Str./Fennstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.369412,
+                    52.541524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Residenzstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.360635,
+                    52.570843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Richard-Wagner-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307221,
+                    52.517154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Rohrdamm (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26287,
+                    52.536904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Rosa-Luxemburg-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.410405,
+                    52.528191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Rosenthaler Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.401393,
+                    52.529781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Rdesheimer Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.314387,
+                    52.472462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Rudow (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.496734,
+                    52.415614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Ruhleben (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.241902,
+                    52.525587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Samariterstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.465347,
+                    52.514662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Scharnweberstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.311524,
+                    52.567111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Schillingstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.421895,
+                    52.520316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Schlesisches Tor (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.441926,
+                    52.500759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Schlostr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.325139,
+                    52.461476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Schnleinstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.422241,
+                    52.493179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Schwartzkopffstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.377033,
+                    52.535397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Seestr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35197,
+                    52.55047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Senefelderplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412625,
+                    52.532622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Siemensdamm (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.273323,
+                    52.537026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Sophie-Charlotte-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.297463,
+                    52.51097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Spichernstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330613,
+                    52.496582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Spittelmarkt (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.402352,
+                    52.511301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Stadtmitte (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.389719,
+                    52.511495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Stadtmitte/Krausenstr.",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390807,
+                    52.50955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Stadtmitte/Leipziger Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.389918,
+                    52.510324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Strausberger Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.432208,
+                    52.518025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Sdstern (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.407685,
+                    52.489219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Tempelhof/Ringbahnstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385842,
+                    52.468806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Thielplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.281651,
+                    52.451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Tierpark (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.523626,
+                    52.497236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Turmstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.342401,
+                    52.525837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Uhlandstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.326233,
+                    52.502742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Ullsteinstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.384771,
+                    52.45345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Viktoria-Luise-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.343264,
+                    52.496169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Vinetastr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41377,
+                    52.559516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Voltastr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.393157,
+                    52.54193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Walther-Schreiber-Platz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.328409,
+                    52.464998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Weberwiese (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.443277,
+                    52.516848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Weinmeisterstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.405305,
+                    52.525376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Weinmeisterstr./Gipsstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.403518,
+                    52.524768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Westphalweg (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385561,
+                    52.445802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Wilmersdorfer Str. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.306885,
+                    52.505834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Wilmersdorfer Str./Kantstr. (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307056,
+                    52.506641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Wittenau (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3333,
+                    52.595509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Wittenbergplatz (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.342561,
+                    52.502109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Wutzkyallee (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47482,
+                    52.423152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Zitadelle (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.217625,
+                    52.537522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U Zwickauer Damm (Berlin)",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.484371,
+                    52.423032
+                ]
+            }
+        }
+    ]
+}

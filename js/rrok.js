@@ -54,10 +54,34 @@ $( document ).ready(function() {
         });
     }
 
+    renderMarker = function(link) {
+        var url = $(link).attr("href");
+        $.getJSON(url, function(data) {
+            var feature = data.features[0];
+            var name = feature.properties.name;
+            L.geoJson(data, {
+                style: function (feature) {
+                    return { color: "#ff0000" };
+                },
+                onEachFeature: function (feature, layer) {
+                    layer.bindPopup(feature.properties.name);
+                }
+            }).addTo(map);
+        });
+    }
+
+
+
     var transportationLineLinks = $('link[rel="transportation-line"]');
     for (var i = 0; i < transportationLineLinks.length; i++) {
         var transportationLineLink = transportationLineLinks[i];
         renderGeoJson(transportationLineLink);
+    }
+
+    var stationLinks = $('link[rel="stations"]');
+    for (var i = 0; i < stationLinks.length; i++) {
+        var stationLink = stationLinks[i];
+        renderMarker(stationLink);
     }
 
 });
