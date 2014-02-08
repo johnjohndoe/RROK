@@ -56,7 +56,7 @@ $( document ).ready(function() {
 
 
     // Load points GeoJSON and add to map
-    var links = $('link[rel="points"]');
+    var links = $('link[rel="transportion-line"]');
     for (var i = 0; i < links.length; i++) {
         var link = links[i];
         renderGeoJson(link);
