@@ -54,12 +54,10 @@ $( document ).ready(function() {
         });
     }
 
-
-    // Load points GeoJSON and add to map
-    var links = $('link[rel="transportion-line"]');
-    for (var i = 0; i < links.length; i++) {
-        var link = links[i];
-        renderGeoJson(link);
+    var transportationLineLinks = $('link[rel="transportation-line"]');
+    for (var i = 0; i < transportationLineLinks.length; i++) {
+        var transportationLineLink = transportationLineLinks[i];
+        renderGeoJson(transportationLineLink);
     }
 
 });
