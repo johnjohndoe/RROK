@@ -18,6 +18,13 @@ Then open your browser and open ..
 http://localhost:8000
 ```
 
+References
+----------
+
+* [Berlin/Transportation][2]
+* [VBB Haltestellen][3]
 
 
 [1]: https://geekli.st/hackathon/52c49d837689332d5f000019/project/52f544b5a5e91c1d009773a0?tab=about
+[2]: http://wiki.openstreetmap.org/wiki/Berlin/Transportation
+[3]: https://offenedaten.de/dataset/vbb-haltestellen
