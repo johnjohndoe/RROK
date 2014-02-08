@@ -33,7 +33,7 @@ $( document ).ready(function() {
             case 'S-Bahnlinie S8': return "#55B831";
             case 'S-Bahnlinie S85': return "#55B831";
             case 'S-Bahnlinie S9': return "#942440";
-            default: throw "Cannot match name to color."
+            default: throw "Cannot match name '" + name + "' to color."
         }
     }
 
