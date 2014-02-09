@@ -96,4 +96,30 @@ $( document ).ready(function() {
         renderMarker(stationLink);
     }
 
+
+    //custom size for this example, and autoresize because map style has a percentage width
+    var heatmap = new L.TileLayer.WebGLHeatMap({
+        size: 1000,
+        autoresize: true
+    });
+
+    // dataPoints is an array of arrays: [[lat, lng, intensity]...]
+    var dataPoints = [
+        [52.435356, 13.541077, 177], // S Adlershof (Berlin)
+        [52.570177, 13.565729, 164], // S Ahrensfelde Bhf (Berlin)
+        [52.549336, 13.415138, 1000] // S+U Schönhauser Allee (Berlin)
+    ];
+
+    for (var i = 0, len = dataPoints.length; i < len; i++) {
+        var point = dataPoints[i];
+        heatmap.addDataPoint(
+            point[0],
+            point[1],
+            point[2]
+        );
+    }
+    // alternatively, you can skip the for loop and add the whole dataset with heatmap.setData(dataPoints)
+
+    map.addLayer(heatmap);
+
 });
