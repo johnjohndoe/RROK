@@ -96,4 +96,27 @@ $( document ).ready(function() {
         renderMarker(stationLink);
     }
 
+
+    //custom size for this example, and autoresize because map style has a percentage width
+    var heatmap = new L.TileLayer.WebGLHeatMap({
+        size: 1000,
+        autoresize: true
+    });
+
+    // dataPoints is an array of arrays: [[lat, lng, intensity]...]
+    var dataPoints = [
+    ];
+
+    for (var i = 0, len = dataPoints.length; i < len; i++) {
+        var point = dataPoints[i];
+        heatmap.addDataPoint(
+            point[0],
+            point[1],
+            point[2]
+        );
+    }
+    // alternatively, you can skip the for loop and add the whole dataset with heatmap.setData(dataPoints)
+
+    map.addLayer(heatmap);
+
 });
