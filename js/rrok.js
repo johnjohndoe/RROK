@@ -105,6 +105,9 @@ $( document ).ready(function() {
 
     // dataPoints is an array of arrays: [[lat, lng, intensity]...]
     var dataPoints = [
+        [52.435356, 13.541077, 177], // S Adlershof (Berlin)
+        [52.570177, 13.565729, 164], // S Ahrensfelde Bhf (Berlin)
+        [52.549336, 13.415138, 1000] // S+U Schönhauser Allee (Berlin)
     ];
 
     for (var i = 0, len = dataPoints.length; i < len; i++) {
