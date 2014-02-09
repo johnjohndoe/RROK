@@ -1,11 +1,13 @@
 $( document ).ready(function() {
 
+
+
     var map = L.map('map').setView([52.516667, 13.383333], 10);
 
-    L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
+    var osmLayer = L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
         maxZoom: 18,
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>'
-    }).addTo(map);
+    });
 
     var popup = L.popup();
     function onMapClick(e) {
@@ -49,6 +51,8 @@ $( document ).ready(function() {
         }
     }
 
+    var transportationLineLayer = new L.LayerGroup();
+
     renderTransportationLine = function(link) {
         var url = $(link).attr("href");
         $.getJSON(url, function(data) {
@@ -62,23 +66,28 @@ $( document ).ready(function() {
                     opacity: 0.75
                 }
             });
-            geojson.addTo(map);
+            geojson.addTo(transportationLineLayer);
         });
     }
+
+
+    var stationLayer = new L.LayerGroup();
+
 
     renderMarker = function(link) {
         var url = $(link).attr("href");
         $.getJSON(url, function(data) {
             var feature = data.features[0];
             var name = feature.properties.name;
-            L.geoJson(data, {
+            var marker = L.geoJson(data, {
                 style: function (feature) {
                     return { color: "#ff0000" };
                 },
                 onEachFeature: function (feature, layer) {
                     layer.bindPopup(feature.properties.name);
                 }
-            }).addTo(map);
+            });
+            marker.addTo(stationLayer);
         });
     }
 
@@ -120,6 +129,21 @@ $( document ).ready(function() {
     }
     // alternatively, you can skip the for loop and add the whole dataset with heatmap.setData(dataPoints)
 
+    map.addLayer(osmLayer);
+    map.addLayer(transportationLineLayer);
+    map.addLayer(stationLayer);
     map.addLayer(heatmap);
+
+    var baseLayers = {
+     "Map": osmLayer
+    };
+
+    var overlays = {
+     "U-Bahn & S-Bahn Stationen": stationLayer,
+     "U-Bahn & S-Bahn Linien": transportationLineLayer,
+     "Heatmap": heatmap
+    };
+
+    L.control.layers(null, overlays).addTo(map);
 
 });
