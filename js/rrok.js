@@ -223,4 +223,8 @@ $( document ).ready(function() {
 
     L.control.layers(null, overlays).addTo(map);
 
+    $('#form-container .input-append.date').datepicker({
+        todayHighlight: true
+    });
+
 });
