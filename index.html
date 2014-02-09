@@ -1,13 +1,21 @@
-
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>RROK Playground</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
-    <link rel="stylesheet" type="text/css" href="styles/rrok.css" />
+<link href="http://fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/lightbox-2.6.min.js"></script>
+<title>Welcome to RROK - Random Rides of Kindness</title>
+<link rel="icon" type="image/png" href="images/favicon.png"/>
+<link rel="stylesheet" href="styles/main.css" type="text/css" />
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+<link href="styles/lightbox.css" rel="stylesheet" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8" />
 
+ <link rel="stylesheet" type="text/css" href="styles/datepicker.css" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
     <link rel="transportation-line" type="application/json" href="./assets/s1.geojson">
     <link rel="transportation-line" type="application/json" href="./assets/s2.geojson">
     <link rel="transportation-line" type="application/json" href="./assets/s25.geojson">
@@ -41,8 +49,55 @@
     <script src="http://ursudio.com/webgl-heatmap-leaflet/js/webgl-heatmap.js"></script>
     <script src="http://ursudio.com/webgl-heatmap-leaflet/js/webgl-heatmap-leaflet.js"></script>
     <script src="js/rrok.js" type="text/javascript"></script>
+
 </head>
+
 <body>
-    <div id="map" style="" ></div>    
+<div id ="container">
+
+		<div id="header">
+			<div class="main_feature">
+            <div class="main_feature_text" style="background-color:#F7F6F6; margin-top: 150px;">
+            	<div class="image_main_feature"><img src="images/ticketteilen_logo.png" /></div>
+				<h1 style="text-align:center;">Welcome to RROK (Random Rides of Kindness)</h1>
+            	<h2 style="text-align:center;"><a href="http://www.ticketteilen.org" target="_blank">Ticketteilen.org</a></h2>
+            	<p style="text-align:justify; padding-top: 30px; font-size:16px">RROK (Random Rides of Kindness) is a part of an initiative to promote ticketteilen.org, a ticket sharing system for public transportation in Berlin which helps provide a method of transport to thoes who aren't able to afford transportation. Owners of BVG and S-Bahn monthly passes can let someone share the train with them on certain times (evening, weekends). This website allows thoes who have shared a ride with someone, to record their journey</p>
+            	<div style="margin: 10px 0 0 10px; text-align:center;"><a href="share_your_experience.html" class="button_main_feature">Shared a ride - Share your experience</a></div>
+            </div>
+            </div>
+
+        </div>
+        
+    <br class="clear" />
+	<div id="main-content">
+    	<h1 style="text-align:left">RROK is Growing</h1>
+
+		<!-- 8/12 and 4/12 layout -->
+		<div class="grid grid-pad">
+			<div class="col-8-12">
+				<div class="content"><a href="images/heat_map.png" data-lightbox="image-1" title="Live View of Heat Map of Random Rides of Kindness"><img src="images/heat_map.png" /></a>
+				</div>
+			</div>
+			<div class="col-4-12">
+				<div class="content"><p>RROK begin as an idea from Geeklist #Hack4good 0.5, inspired by the ticketteilen-campaign by Naturfreunde Berlin. It allows monthly ticket holders who have "RROKed" (allowed someone share a ride with them) to record their journey. The record the start station and the end station into the website. This information is recoreded and you receive feedback about your good deed. You can also find out how your neighbourhood and transport line scores against others by using the heatmap.</p>
+                <p></p>
+                <p>Does your neighbourhood "RROK"? Click on the map to find out!</p>
+				</div>
+			</div>
+		</div>
+
+        </div>
+        </div>
+        
+        
+    </div>
+
+</div>
+</div>
+<br class="clear" />
+<div id="footer"><p style="text-align:center;"></p></div>
+</div>
+
+
 </body>
 </html>
