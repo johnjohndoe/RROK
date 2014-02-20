@@ -29,7 +29,7 @@ Authors & Contributors
 * [Stephan Klinger][5]
 * [Marion Barry][6]
 * [Tobias Preuss][7]
-* Dierk
+* [Dierk Eichel][9]
 * [Dirk Jäckel][8]
 
 References
@@ -47,3 +47,4 @@ References
 [6]: https://github.com/marionbarry
 [7]: https://github.com/johnjohndoe
 [8]: https://github.com/biafra23
+[9]: http://www.meetup.com/opentechschool-berlin/members/11483086/
